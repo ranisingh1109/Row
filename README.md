@@ -1,2 +1,2 @@
 # Row
-Row,Cloumn
+Row,children,Cloumn,text,image,color,icon,container
